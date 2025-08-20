@@ -1,5 +1,5 @@
 {
-  "originHash" : "1feed49f96e9c4efe858be32fbbe8064e92ba13f7b40afda5cd90142213f306d",
+  "originHash" : "0d6bd634120bcfbf439dcca4abcff79edb727c6c0ff67dec77a0c7e4b5ba0a6b",
   "pins" : [
     {
       "identity" : "maplibre-gl-native-distribution",
@@ -7,7 +7,7 @@
       "location" : "https://github.com/scottrhoyt/maplibre-gl-native-distribution.git",
       "state" : {
         "revision" : "0fb0ca73cb40d78925a1ea024ec186599a1e9821",
-        "version" : "6.18.17"
+        "version" : "6.18.18"
       }
     },
     {
